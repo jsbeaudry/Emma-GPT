@@ -21,7 +21,7 @@ Feel free to explore, experiment the available features and add new ones!
 - Express : https://expressjs.com/
 - ffmpeg : https://www.npmjs.com/package/ffmpeg
 
-NB: Recommend Nodejs +16.0.0
+NB: Use Nodejs +16.0.0
 
 ## Prerequisites
 
