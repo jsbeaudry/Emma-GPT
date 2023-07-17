@@ -37,13 +37,13 @@ To use the Telegram OpenAI Integration, follow these steps:
 1. Clone the repository:
 
 ```shell
-git clone https://github.com/your_username/telegram-openai-integration.git
+git clone https://github.com/jsbeaudry/Emma-GPT.git
 ```
 
 2. Install the required dependencies:
 
 ```shell
-cd telegram-openai-integration
+cd Emma-GPT
 yarn install
 ```
 
