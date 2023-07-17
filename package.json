@@ -1,0 +1,22 @@
+{
+  "name": "Emma-GPT",
+  "version": "1.0.0",
+  "description": "EmmaGPT is a powerful integration that brings the capabilities of OpenAI's advanced technologies to Telegram, one of the most widely used social messaging platforms. With EmmaGPT, anyone can harness the power of OpenAI's cutting-edge technologies right within their Telegram conversations.",
+  "main": "index.js",
+  "author": "Jean Sauvenel Beaudry (JSBEAUDRY)",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "@ffmpeg-installer/ffmpeg": "^1.1.0",
+    "@ffprobe-installer/ffprobe": "^2.1.1",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "fluent-ffmpeg": "^2.1.2",
+    "lodash": "^4.17.21",
+    "node-telegram-bot-api": "^0.61.0",
+    "openai": "^3.3.0"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
